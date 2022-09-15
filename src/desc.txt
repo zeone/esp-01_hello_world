@@ -1,0 +1,11 @@
+esp01
+IO0 - grey
+IO2 - yellow
+gnd - black
+3v3 - red
+en  - green
+
+AM2320
+1 - yellow
+2 - -
+3 - grey
